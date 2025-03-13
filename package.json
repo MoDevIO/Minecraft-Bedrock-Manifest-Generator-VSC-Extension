@@ -5,6 +5,10 @@
   "version": "0.0.1",
   "publisher": "MoDevIO",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoDevIO/Minecraft-Bedrock-Manifest-Generator-VSC-Extension"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
