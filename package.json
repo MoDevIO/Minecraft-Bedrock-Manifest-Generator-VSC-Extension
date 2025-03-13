@@ -1,8 +1,10 @@
 {
   "name": "minecraft-bedrock-manifest-generator",
   "displayName": "Minecraft Bedrock Manifest Generator",
-  "description": "",
+  "description": "A Visual Studio Code extension that helps you generate manifest files for Minecraft Bedrock Edition texture and behavior packs.",
   "version": "0.0.1",
+  "publisher": "MoDevIO",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
   },
